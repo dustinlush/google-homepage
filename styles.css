@@ -122,4 +122,11 @@ footer ul a:hover {
     #google_logo {
         padding: 0;
     }
+    .buttons {
+        display: none;
+    }
+    #form-search {
+        width: 80%;
+    }
 }
+
